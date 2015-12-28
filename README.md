@@ -1,2 +1,3 @@
 # Hello-world
-This is mz first comment - Alex
+This is my first comment - Alex
+Adding changes manually.
